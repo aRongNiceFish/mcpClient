@@ -1,0 +1,13 @@
+.env
+.env.local
+.env.development
+.env.production
+
+# macOS 常见垃圾文件
+.DS_Store
+._*
+
+# 其他可选（根据你的项目类型可删）
+# node_modules/
+# __pycache__/
+# *.pyc
