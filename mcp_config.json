@@ -1,0 +1,22 @@
+{
+  "mcpServers": {
+    "financial-datasets": {
+      "command": "uv",
+      "args": [
+        "run",
+        "/Users/ronghaoyu/Projects/PyProjects/MCPs/mcp-server/server.py"
+      ],
+      "env": {},
+      "transport": "stdio"
+    },
+    "weather" : {
+      "command": "uv",
+      "args": [
+        "run",
+        "/Users/ronghaoyu/Projects/PyProjects/MCPs/weather/weather.py"
+      ],
+      "env": {},
+      "transport": "stdio"
+    }
+  }
+}
